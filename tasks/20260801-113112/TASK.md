@@ -1,7 +1,7 @@
 # Add a way to generate sounds
 
-- STATUS: OPEN
+- STATUS: CLOSED
 - PRIORITY: 100
-- TAGS: stream
+- TAGS: scope
 
-No description.
+Resolved by 1b153780a0b051c93d9d12c3088999cafd8e71db
